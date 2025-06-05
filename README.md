@@ -16,3 +16,6 @@ Username: dustinmo
 Password: 
 time="2025-06-04T16:32:54-04:00" level=info msg="Error logging in to endpoint, trying next endpoint" endpoint="{false https://airlab-storage.andrew.cmu.edu:5001 false false false 0xc00018b0e0}" error="login attempt to https://airlab-storage.andrew.cmu.edu:5001/v2/ failed with status: 401 Unauthorized"
 login attempt to https://airlab-storage.andrew.cmu.edu:5001/v2/ failed with status: 401 Unauthorized
+
+
+![image](https://github.com/user-attachments/assets/51dfffca-de92-488b-983a-4c0df2d521e3)
