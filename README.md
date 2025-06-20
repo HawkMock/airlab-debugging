@@ -19,3 +19,7 @@ login attempt to https://airlab-storage.andrew.cmu.edu:5001/v2/ failed with stat
 
 
 ![image](https://github.com/user-attachments/assets/51dfffca-de92-488b-983a-4c0df2d521e3)
+
+
+dustinmo@airstation-01:~/AirStack$ docker compose pull
+env file /home/dustinmo/AirStack/simulation/isaac-sim/docker/omni_pass.env not found: stat /home/dustinmo/AirStack/simulation/isaac-sim/docker/omni_pass.env: no such file or directory
